@@ -1,15 +1,12 @@
 # SimbloxCode
 
-### DataStart
+### Setup
 
 
+How to setup Simblox on your discord and how to make it with these simple easy steps:
 
-This is an open source but will make no sense when re-created and its entire purpose is served else where.
+First you must install the Roblox Studio app and have a account on Roblox
 
-If you need assistance and got here trying to solve a bug please contact Xx_xX121#1364 on discord.
+Second you need to download the package and then from there you can start to create your own commands etc.
 
-Thank you
-
-
-
-### DataEnd
+If you need more assistance please ask one of our support staff.
