@@ -3,3 +3,8 @@
   to = "/error.html"
   status = 200
   
+  [[redirects]]
+  from = "/error.html"
+  to = "/index.html"
+  status = 200
+  force = true 
